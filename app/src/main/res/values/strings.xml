@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Solar Pharaoh</string>
+    <string name="image_chooser">Choose Image</string>
+    <string name="facebook_app_id">1134871680445568</string>
+    <string name="fb_login_protocol_scheme">fb1134871680445568</string>
+
+</resources>
